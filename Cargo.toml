@@ -1,8 +1,0 @@
-[workspace]
-members = [
-    "crates/fyp-core",
-    "crates/fyp-os",
-    "crates/fyp-ui",
-    "crates/fyp-cli",
-]
-resolver = "2"
